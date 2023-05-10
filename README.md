@@ -2,6 +2,7 @@
 Социальная сеть блогеров
 
 ### Описание
+Тренировка в создании моделей
 
 ### Технологии
 Python 3.7
@@ -17,4 +18,4 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 ### Авторы
-KTO-TO
+https://github.com/DeLaMia
